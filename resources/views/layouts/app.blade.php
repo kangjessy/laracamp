@@ -19,7 +19,8 @@
 
 <body>
 
-    @include('component.navbar')
+    @include('components.navbar')
+    {{-- @include('layouts.navigation') --}}
 
     @yield('content')
 
