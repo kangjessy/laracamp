@@ -195,7 +195,7 @@
                                 GILA BELAJAR
                             </p>
                             <h1 class="price text-center">
-                                $280K
+                                800K
                             </h1>
                             <div class="item-benefit-pricing mb-4">
                                 <img src="{{asset('images/ic_check.svg')}}" alt="">
@@ -273,7 +273,7 @@
                                 BARU MULAI
                             </p>
                             <h1 class="price text-center">
-                                $140K
+                                400K
                             </h1>
                             <div class="item-benefit-pricing mb-4">
                                 <img src="{{asset('images/ic_check.svg')}}" alt="">
