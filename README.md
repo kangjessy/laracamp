@@ -1,64 +1,24 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Laracamp Full-Stack
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Laracamp Full-Stack adalah sebuah projek full-stack yang memungkinkan pengguna untuk mendaftar dan memilih kamp atau acara camping sesuai dengan preferensi mereka. Projek ini terdiri dari dua bagian yaitu website frontend dan backend. Website frontend berfungsi sebagai landing page dan navigasi antar halaman, sedangkan website backend berfungsi sebagai penyimpanan data dan mengelola transaksi.
 
-## About Laravel
+Website frontend dibangun menggunakan HTML, CSS, dan JavaScript, sedangkan website backend dibangun menggunakan PHP dan MySQL.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Struktur Repositori
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Repositori ini terdiri dari dua direktori yaitu `frontend` dan `backend`. Setiap direktori memiliki fungsi sebagai berikut:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+-   `frontend`: direktori yang berisi file-file untuk website frontend, termasuk file HTML, CSS, dan JavaScript, serta file-file pendukung seperti gambar dan font.
+-   `backend`: direktori yang berisi file-file untuk website backend, termasuk file PHP, SQL, dan file-file konfigurasi.
 
-## Learning Laravel
+## Lisensi
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Repositori ini dilisensikan di bawah lisensi MIT. Silahkan melihat file LICENSE untuk informasi lebih lanjut.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Catatan Penting
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+-   Repositori ini merupakan bagian dari tugas kelas dan tidak diizinkan untuk dikloning atau digunakan sebagai referensi oleh pihak lain tanpa izin dari pemilik repositori.
+-   Repositori ini tidak menerima kontribusi dari pihak lain kecuali untuk kepentingan pengembangan oleh pemilik repositori.
+-   Repositori ini merupakan bagian dari portfolio pribadi dan tidak dapat digunakan untuk tujuan lain selain sebagai contoh pengembangan website oleh pemilik repositori.
+-   Website backend ini masih menggunakan password default dan harus diganti sebelum di-deploy di lingkungan produksi.
+-   Repository ini tidak menyertakan file-file konfigurasi dan credential untuk keamanan dan privasi. Pastikan Anda menyimpan file-file ini di tempat yang aman dan tidak terlihat oleh orang lain.
